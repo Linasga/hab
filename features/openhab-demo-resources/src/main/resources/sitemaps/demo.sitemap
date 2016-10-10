@@ -1,7 +1,7 @@
 sitemap demo label="Main Menu"
 {
 	Frame {
-		Group item=gFF label="First Floor AA" icon="firstfloor"
+		Group item=gFF label="First Floor" icon="firstfloor"
 		Group item=gGF label="Ground Floor" icon="groundfloor"
 		Group item=gC label="Cellar" icon="cellar"
 		Group item=Garden icon="garden"
